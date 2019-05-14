@@ -1,0 +1,17 @@
+{
+  "prefix":"",
+  "couleur":"",
+  "token":"",
+  "twitch":"PR3D4T0R",
+  "usermods":[],
+  "tokens":[
+    "token 1",
+    "token 2",
+    "ext..."
+  ],
+  "proxies":[
+    "proxy 1",
+    "proxy 2",
+    "ext..."
+  ]
+}
