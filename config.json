@@ -4,6 +4,11 @@
   "token":"",
   "twitch":"PR3D4T0R",
   "usermods":[],
+  "spam":[
+    "Phrase 1",
+    "Phrase 2",
+    "Phrase 3"
+  ],
   "tokens":[
     "token 1",
     "token 2",
